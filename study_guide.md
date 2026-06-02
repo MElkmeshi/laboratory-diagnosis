@@ -73,6 +73,9 @@ Inadequate production/secretion of pancreatic digestive enzymes (lipase, amylase
 ### Pelger-Huët Anomaly
 A hereditary disorder characterized by **hyposegmented neutrophil nuclei** with usually normal leukocytic function.
 
+### Thrombasthenia
+A hereditary qualitative platelet disorder (e.g., Glanzmann thrombasthenia) caused by a **defect in GPIIb/IIIa**, characterized by defective platelet aggregation despite normal platelet numbers → prolonged bleeding time, petechiae, epistaxis, and impaired primary hemostasis.
+
 ---
 
 ## Part 3: Matching Exercises
@@ -87,6 +90,7 @@ A hereditary disorder characterized by **hyposegmented neutrophil nuclei** with 
 | Factor V Leiden | Genetic mutation → thrombophilia (DVT, PE, shock) |
 | Antiphospholipid Antibody Syndrome | Lupus anticoagulant paradox: prolonged clotting times *in vitro* but excessive **thrombosis** (DVT/PE) *in vivo* |
 | Hemophilia | Rare inherited or acquired bleeding disorder due to lack of a clotting factor |
+| Parahemophilia | Rare Factor V deficiency → mild bleeding tendency |
 
 ### 3B — Liver Conditions
 
@@ -120,6 +124,17 @@ A hereditary disorder characterized by **hyposegmented neutrophil nuclei** with 
 | High RDW-cv (>14.5%) | Indicates anisocytosis |
 | Mentzer Index | MCV (fL) ÷ RBC count (millions/µL) — differentiates IDA from beta-thalassemia |
 | Pappenheimer Bodies | Abnormal iron-containing basophilic granules within RBCs (Wright-Giemsa stain) |
+
+### 3F — Hemolytic Disorders
+
+| Condition | Key Features |
+|-----------|-------------|
+| Extravascular Hemolysis | Destruction by macrophages of spleen/liver → mild jaundice, anemia, splenomegaly |
+| Intravascular Hemolysis | Hemoglobinemia, hemoglobinuria, hemosiderinuria, ↑ LDH, ↓ haptoglobin, reticulocytosis, severe icterus |
+| HUS (Hemolytic Uremic Syndrome) | E. coli Shiga toxin → schistocytes, thrombocytopenia, bloody diarrhea, bleeding tendency, renal failure |
+| Atypical HUS | Complement system activation → no bloody diarrhea, severe kidney injury, schistocytes |
+| TTP (Thrombotic Thrombocytopenic Purpura) | Thrombocytopenia + bleeding tendency + neurological signs |
+| HELLP Syndrome | Hemolysis + Elevated Liver enzymes + Low Platelets; schistocytes on smear |
 
 ### 3E — Miscellaneous
 
@@ -314,3 +329,20 @@ A hereditary disorder characterized by **hyposegmented neutrophil nuclei** with 
 - B. Elevated AST
 - **C. Increased bile acids** ✓
 - D. Increased ALP
+
+---
+
+## Part 6: Clinical Notes
+
+### Acetaminophen Toxicity in Cats
+Highly fatal even in low doses due to **lack of glucuronosyl transferase** — the liver enzyme needed to safely conjugate and excrete the drug. Leads to methemoglobinemia, hepatic necrosis, and death.
+
+### Infectious Mononucleosis ("Kissing Disease")
+- Caused by **Epstein-Barr Virus (EBV)**
+- Signs: fever, sore throat (laryngitis), lymphadenopathy (neck and axilla), possible hepatosplenomegaly
+- 2-week incubation period; especially affects teenagers and young adults
+- Treatment: rest and hydration
+
+### Saline Dilution Test (AIHA vs. Normal)
+- Abnormal (AIHA): **agglutination**
+- Normal: **Rouleaux formation**
