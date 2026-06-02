@@ -14,7 +14,7 @@
 | 4 | Dog: petechiae, prolonged bleeding time, normal aPTT | Thrombocytopenia or platelet dysfunction |
 | 5 | Cat: polydipsia, polyuria, azotemia, isosthenuria | Chronic kidney disease (CKD) |
 | 6 | Dog: weight loss despite good appetite, steatorrhea, low serum TLI | Exocrine Pancreatic Insufficiency (EPI) |
-| 7 | Young dog: stunted growth, neurological signs, poor eating, low BUN/bile acids | Porto-systemic Shunt (PSS) |
+| 7 | Young dog: stunted growth, neurological signs, poor eating, low BUN + **elevated** bile acids | Porto-systemic Shunt (PSS) |
 | 8 | Dog: sudden onset oliguria, azotemia, after toxic exposure | Acute kidney injury (AKI) |
 | 9 | Dog: vomiting, abdominal pain, elevated lipase, hyperechoic peripancreatic fat on ultrasound | Acute Pancreatitis |
 | 10 | Older cat: weight loss despite increased appetite, tachycardia, elevated T4 | Hyperthyroidism |
@@ -85,7 +85,7 @@ A hereditary disorder characterized by **hyposegmented neutrophil nuclei** with 
 | Gray Platelet Syndrome | Rare inherited bleeding disorder due to lack of alpha granules → macro-thrombocytopenia, bleeding tendencies, splenomegaly |
 | Hermansky-Pudlak Syndrome | Rare genetic disorder with dual defect: albinism + lack of platelet granules |
 | Factor V Leiden | Genetic mutation → thrombophilia (DVT, PE, shock) |
-| Antiphospholipid Antibody Syndrome | Lupus anticoagulant paradox: prolonged clotting times *in vitro* but excessive bleeding *in vivo* |
+| Antiphospholipid Antibody Syndrome | Lupus anticoagulant paradox: prolonged clotting times *in vitro* but excessive **thrombosis** (DVT/PE) *in vivo* |
 | Hemophilia | Rare inherited or acquired bleeding disorder due to lack of a clotting factor |
 
 ### 3B — Liver Conditions
